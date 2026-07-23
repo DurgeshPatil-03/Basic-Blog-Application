@@ -1,4 +1,3 @@
-````markdown
 # 📝 BlogSphere - Basic Blog Application
 
 A full-stack blog application built using **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Bootstrap 5**. The application allows users to create, read, update, and delete blog posts through a clean and responsive user interface.
@@ -228,4 +227,3 @@ It motivates me to build and share more projects.
 ## 📜 License
 
 This project is created for educational and learning purposes.
-````
