@@ -157,21 +157,16 @@ http://localhost:3000
 Add screenshots of the following pages:
 
 - Home Page
+![Home Screenshot](https://github.com/DurgeshPatil-03/Basic-Blog-Application/blob/5928a8ae498d988e1e5cf17a9aedb772d21d026e/screenshots/Home.png)
+
 - Create Blog Page
+![Create Screenshot](https://github.com/DurgeshPatil-03/Basic-Blog-Application/blob/5928a8ae498d988e1e5cf17a9aedb772d21d026e/screenshots/Create.png)
+  
 - Edit Blog Page
-- MongoDB Compass
+![Edit Screenshot](https://github.com/DurgeshPatil-03/Basic-Blog-Application/blob/5928a8ae498d988e1e5cf17a9aedb772d21d026e/screenshots/Edit.png)
+  
 - Responsive Mobile View
-
-Example folder structure:
-
-```text
-screenshots/
-├── home.png
-├── create.png
-├── edit.png
-├── database.png
-└── mobile.png
-```
+![Mobile Screenshot](https://github.com/DurgeshPatil-03/Basic-Blog-Application/blob/5928a8ae498d988e1e5cf17a9aedb772d21d026e/screenshots/Mobile.png)
 
 ---
 
