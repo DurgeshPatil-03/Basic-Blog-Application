@@ -59,6 +59,8 @@ Blog-App/
 │
 ├── routes/
 │   └── blogRoutes.js
+|
+├── screenshots/
 │
 ├── views/
 │   ├── index.ejs
@@ -85,13 +87,13 @@ Blog-App/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blogsphere.git
+git clone https://github.com/DurgeshPatil-03/Basic-Blog-Application
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd blogsphere
+cd Blog-App
 ```
 
 ### 3. Install Dependencies
@@ -211,8 +213,8 @@ Through this project, I learned:
 
 Full Stack Python & Web Developer
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/DurgeshPatil-03
+- LinkedIn: https://www.linkedin.com/in/durgesh-shewale
 
 ---
 
